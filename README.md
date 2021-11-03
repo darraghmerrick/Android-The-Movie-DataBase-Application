@@ -12,5 +12,3 @@ In the strings.xml file, insert your own TMDB API key:
 <string name="tmdb_api_key">,<Insert_TMDB_Key_here></string>
 You can get the key from MovieDB Site: www.themoviedb.org
 
-Libs
-Use Picasso for image loading, you can check it here : [Picasso](https://github.com/square/picasso)
