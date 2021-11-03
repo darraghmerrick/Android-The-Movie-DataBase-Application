@@ -1,6 +1,10 @@
 # Android-The-Movie-DataBase-Application
+
 ![](https://github.com/darraghmerrick/Android-The-Movie-DataBase-Application/blob/master/udacity-1.png)
-![](https://github.com/darraghmerrick/Android-The-Movie-DataBase-Application/blob/master/popularMovies.png)
+
+<p align="center">
+  <img width="400" height="800" src="https://github.com/darraghmerrick/Android-The-Movie-DataBase-Application/blob/master/popularMovies.png">
+</p>
 
 ## Description
 This application gets the most popular and rated movies online, And shows the movie descriptions, rates, images, trailers, and reviews.
